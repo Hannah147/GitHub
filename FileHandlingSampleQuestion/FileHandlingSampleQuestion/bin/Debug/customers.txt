@@ -1,0 +1,4 @@
+Molly,Shirt,2
+Mark,Jumper,1
+Mark,Trousers,1
+Jean,Trousers,1

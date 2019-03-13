@@ -1,0 +1,7 @@
+H:\Software Development Year 1 Semester 2\programming2\FileHandlingSampleQuestion\FileHandlingSampleQuestion\bin\Debug\FileHandlingSampleQuestion.exe.config
+H:\Software Development Year 1 Semester 2\programming2\FileHandlingSampleQuestion\FileHandlingSampleQuestion\bin\Debug\FileHandlingSampleQuestion.exe
+H:\Software Development Year 1 Semester 2\programming2\FileHandlingSampleQuestion\FileHandlingSampleQuestion\bin\Debug\FileHandlingSampleQuestion.pdb
+H:\Software Development Year 1 Semester 2\programming2\FileHandlingSampleQuestion\FileHandlingSampleQuestion\obj\Debug\FileHandlingSampleQuestion.csprojAssemblyReference.cache
+H:\Software Development Year 1 Semester 2\programming2\FileHandlingSampleQuestion\FileHandlingSampleQuestion\obj\Debug\FileHandlingSampleQuestion.csproj.CoreCompileInputs.cache
+H:\Software Development Year 1 Semester 2\programming2\FileHandlingSampleQuestion\FileHandlingSampleQuestion\obj\Debug\FileHandlingSampleQuestion.exe
+H:\Software Development Year 1 Semester 2\programming2\FileHandlingSampleQuestion\FileHandlingSampleQuestion\obj\Debug\FileHandlingSampleQuestion.pdb
